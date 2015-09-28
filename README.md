@@ -1,4 +1,7 @@
-<<<<<<< HEAD
+### to the reviewer,
+please check in history to see original committed file (correct as per project indications)
+this was merged with other readme file
+
 # datasciencecoursera
 data science repo - coursera
 =======
